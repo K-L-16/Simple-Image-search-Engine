@@ -21,7 +21,7 @@
    
    Visit Unsplash Developers
 
-  Sign up and copy your Access Key
+   Sign up and copy your Access Key
 
 3. Add your API key
 
